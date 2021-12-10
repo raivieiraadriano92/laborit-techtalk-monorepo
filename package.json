@@ -1,0 +1,13 @@
+{
+  "license": "MIT",
+  "main": "index.js",
+  "name": "@techtalk/monorepo",
+  "private": true,
+  "version": "1.0.0",
+  "workspaces": {
+    "packages": [
+      "apps/*",
+      "packages/*"
+    ]
+  }
+}

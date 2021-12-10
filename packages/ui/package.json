@@ -1,0 +1,7 @@
+{
+  "license": "MIT",
+  "main": "index.ts",
+  "name": "@techtalk/ui",
+  "private": true,
+  "version": "1.0.0"
+}
